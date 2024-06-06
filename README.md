@@ -7,3 +7,9 @@ For human resources in particular :
        •	Doctors
        •	Horses
        •	Patients 
+
+       
+
+The application was simulated in five rooms of the hospital. Each room includes a microcontroller
+that collects data from sensors installed in the room.Then through wireless communication it transmits
+this data to a microcontroller that acts as a concentrator. 
