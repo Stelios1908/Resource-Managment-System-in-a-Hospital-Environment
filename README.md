@@ -23,3 +23,10 @@ Foto from the maketa :
 
 photo of the image that the system user has  
 ![image](https://github.com/Stelios1908/Resource-Managment-System-in-a-hospital-Enviroment-/assets/119701409/60d453a6-a867-4f12-8fbe-49976f78048f)
+
+
+#  Architecture
+
+-DSKLNFLD
+
+
