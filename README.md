@@ -27,6 +27,7 @@ photo of the image that the system user has
 
 #  Architecture
 
--DSKLNFLD
+   ## ROOM 
+   In the following pictures you can see the architecture of each room.Two architectures are preferred 
 
 
