@@ -14,7 +14,7 @@ The application was simulated in five rooms of the hospital. Each room includes 
 that collects data from sensors installed in the room.Then through wireless communication it transmits
 this data to a microcontroller that acts as a concentrator. 
 
-
+Τracking is done with RFID readers at the entrances to each door and with passive cards or tags in the possession of shared resources 
 
 
 Foto from the maketa :
