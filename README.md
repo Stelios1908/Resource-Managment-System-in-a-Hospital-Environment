@@ -22,3 +22,4 @@ Foto from the maketa :
 
 
 photo of the image that the system user has  
+https://github.com/Stelios1908/Resource-Managment-System-in-a-hospital-Enviroment-/issues/1#issuecomment-2152231265
