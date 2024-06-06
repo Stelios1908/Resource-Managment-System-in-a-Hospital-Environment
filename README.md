@@ -21,3 +21,4 @@ Foto from the maketa :
 ![viber_image_2024-05-13_18-43-00-515](https://github.com/Stelios1908/Resource-Managment-System-in-a-hospital-Enviroment-/assets/119701409/330fec14-6fb6-4070-9bf7-8097a23592fc)
 
 
+photo of the image that the system user has  
