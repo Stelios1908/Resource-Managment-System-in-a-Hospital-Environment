@@ -29,5 +29,7 @@ photo of the image that the system user has
 
    ## ROOM 
    In the following pictures you can see the architecture of each room.Two architectures are preferred 
+   ![image](https://github.com/Stelios1908/Resource-Managment-System-in-a-hospital-Enviroment-/assets/119701409/7307d467-e9b0-46ec-b5cd-daba9308630d)
+
 
 
