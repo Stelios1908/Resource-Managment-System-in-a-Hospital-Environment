@@ -1,4 +1,4 @@
-#  Sammary
+#  Project Sammary
 
 In this project I developed a resource management system in the hospital environment. 
 By resources I mean human resources and equipment resources.
