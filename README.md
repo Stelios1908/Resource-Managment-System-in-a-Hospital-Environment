@@ -15,5 +15,5 @@ that collects data from sensors installed in the room.Then through wireless comm
 this data to a microcontroller that acts as a concentrator. 
 
 
-      ![radar](https://github.com/Stelios1908/Resource-Managment-System-in-a-hospital-Enviroment-/assets/119701409/b2a9b018-f820-469d-818a-8806d8d59c16)
 
+![viber_image_2024-05-13_18-43-00-515](https://github.com/Stelios1908/Resource-Managment-System-in-a-hospital-Enviroment-/assets/119701409/330fec14-6fb6-4070-9bf7-8097a23592fc)
