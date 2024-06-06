@@ -29,6 +29,7 @@ photo of the image that the system user has
 
    ## ROOM 
    In the following pictures you can see the architecture of each room.Two architectures are preferred 
+   The difference is that we replace the two RFID readers with an RFID carpet
 
    -first
    
